@@ -20,7 +20,7 @@ The project demonstrates basic version control operations, including repository 
 
 ## Author
 
-**Name:** Your Full Name
+**Name:** Emmanuel Weyttey
 
 **Course:** DCIT323
 
