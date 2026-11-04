@@ -22,6 +22,6 @@ The project demonstrates basic version control operations, including repository 
 
 **Name:** Emmanuel Weyttey
 
-**Course:** DCIT323
+**Course:** DCIT323 - Multimedia and Web Design
 
 **Assignment:** Lab 1
